@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-My name is Isabella Abarca
+Lerned many new things 
 
 Use the left arrow to go back!
 
